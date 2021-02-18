@@ -6,7 +6,7 @@ Code assets for BlueGranite's "Edge-Based Passive Street Monitoring for Smart Ci
 <h3 align=right>Colby T. Ford, Sam Edelstein, Thomas J. Weinandy, Megan Quinn, Larry Baker</h3>
 
 ## Summary
-In large urban settings, the monitoring of streets is cumbersome task for municipalities to manage. The is important information to have as short- and long-term decisions are made at the street block level including maintenance scheduling, transportation planning, and understanding crowd flow. Today, the collection of this data is limited and often relies on humans collecting this data manually over time.
+In large urban settings, the monitoring of streets is cumbersome task for municipalities to manage. This is important information to have as short- and long-term decisions are made at the street block level including maintenance scheduling, transportation planning, and understanding crowd flow. Today, the collection of this data is limited and often relies on humans collecting this data manually over time.
 
 Currently, the use of surveillance cameras can also be used to remotely monitor these conditions, however, these cameras can raise questions around public privacy as to what information is being captured and how it is being used.
 
