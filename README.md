@@ -19,3 +19,6 @@ Our edge-based approach ensures the privacy of public data while providing real-
 Our solution is to use AI models deployed on the edge for quickly capturing the bits of information needed for city street monitoring without saving huge amounts of data or concerning the public with privacy issues.
 
 This innovative approach will blends the power of the Azure Cognitive Services with custom trained models to provide insights in a performant, unified platform for street monitoring. By scoring incoming video data from a small camera device on the edge and relaying the output data back to the cloud through IoT Hub, we can enable real-time insights across a city.
+
+## Resources
+- Project Santa Cruz GitHub: https://github.com/microsoft/Project-Santa-Cruz-Preview
