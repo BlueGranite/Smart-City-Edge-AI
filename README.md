@@ -1,7 +1,9 @@
 # Smart City - Edge AI
 Code assets for BlueGranite's "Edge-Based Passive Street Monitoring for Smart Cities" solution from the Microsoft AI: Look, Listen, Innovate! Solution Hack.
 
-<h3 align=right>Colby T. Ford, Sam Edelstein, Tom Weinandy, Megan Quinn, Larry Baker</h3>
+<p align="right"><img src="https://raw.githubusercontent.com/BlueGranite/GenomicsWebinar_Aug2020/master/img/bg_logo.png" width="200px"></p>
+
+<h3 align=right>Colby T. Ford, Sam Edelstein, Thomas J. Weinandy, Megan Quinn, Larry Baker</h3>
 
 ## Summary
 In large urban settings, the monitoring of streets is cumbersome task for municipalities to manage. The is important information to have as short- and long-term decisions are made at the street block level including maintenance scheduling, transportation planning, and understanding crowd flow. Today, the collection of this data is limited and often relies on humans collecting this data manually over time.
