@@ -1,5 +1,5 @@
 # Smart City - Edge AI
-Code assets for BlueGranite's "Edge-Based Passive Street Monitoring for Smart Cities" solution from the Microsoft AI: Look, Listen, Innovate! Solution Hack.
+Code assets for BlueGranite's "Edge-Based Passive Street Monitoring for Smart Cities" solution from the Microsoft AI: Look, Listen, Innovate! Solution Hack event in March 2021.
 
 <p align="right"><img src="https://raw.githubusercontent.com/BlueGranite/GenomicsWebinar_Aug2020/master/img/bg_logo.png" width="200px"></p>
 
