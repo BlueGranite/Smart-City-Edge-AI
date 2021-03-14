@@ -22,3 +22,4 @@ This innovative approach will blends the power of the Azure Cognitive Services w
 
 ## Resources
 - Project Santa Cruz GitHub: https://github.com/microsoft/Project-Santa-Cruz-Preview
+- People Detector App Template: https://github.com/microsoft/Azure-Percept-Reference-Solutions/tree/main/people-detection-app
